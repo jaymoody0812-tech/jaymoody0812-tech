@@ -20,9 +20,10 @@ A longitudinal behavioral health AI platform. Built solo, no funding, two years 
 
 First 45-day deployment: **PHQ-9 7. GAD-7 8.** Clinician-documented.
 
-**Two lanes:**
+**Three lanes:**
 - **Caregiver app** — live on Render, real users, behavioral logging + AI that adapts to what the trend data shows
-- **Research platform** — local, agentic, wired to public health surveillance datasets (NSDUH, BRFSS, CDC WONDER)
+- **Threat analysis dashboard** — local, agentic, wired to public health surveillance datasets (NSDUH, BRFSS, CDC WONDER)
+- **Academic tutor** — evidence-grounded companion, pulls PubMed/arXiv/ERIC per query, subject cards for every course
 
 ---
 
@@ -40,10 +41,12 @@ Both pre-registered at the Open Science Framework. Both have timestamps that pre
 
 | | |
 |---|---|
-| Research site | [jaymoody0812-tech.github.io/halo-research](https://jaymoody0812-tech.github.io/halo-research/) |
-| Writing + analysis | [moodymodel.substack.com](https://moodymodel.substack.com) |
+| Landing page | [jaymoody0812-tech.github.io/halo-landing](https://jaymoody0812-tech.github.io/halo-landing/) |
+| Research + essay | [jaymoody0812-tech.github.io/jd-moody-research](https://jaymoody0812-tech.github.io/jd-moody-research/) |
+| Writing + analysis | [substack.com/@jacobmoody2](https://substack.com/@jacobmoody2) |
 | Caregiver app (live) | [halo-caregiver-app.onrender.com](https://halo-caregiver-app.onrender.com) |
-| Support the work | [Fund page](https://jaymoody0812-tech.github.io/halo-research/fund.html) |
+| TA dashboard (live) | [halo-ta-cct.onrender.com](https://halo-ta-cct.onrender.com) |
+| Tutor (live) | [halo-tutor-1.onrender.com](https://halo-tutor-1.onrender.com) |
 | Contact | jaymoody0812@gmail.com |
 
 ---
